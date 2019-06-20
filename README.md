@@ -1,2 +1,2 @@
-# japanese_alphabet_converter
-Roman alphabet to hiragana or katakana
+# Japanese-Alphabet
+hiragana and katakana tables displayed in your terminal!
