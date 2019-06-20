@@ -80,7 +80,7 @@ var hiraganaMap = map[string]string {
  * Params
  * romanji string sequence or roman characters equivilent to a hiragana symbol
  *
- * returns Empty string if invalid romanji given. hiragana symbol otherwise
+ * returns Empty string if invalid romanji given. Hiragana symbol otherwise
  */
 func GetHiraganaSymbol(romanji string) string {
 	return hiraganaMap[romanji]
