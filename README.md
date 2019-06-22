@@ -1,7 +1,11 @@
 # Japanese-Alphabet
 hiragana and katakana tables displayed in your terminal!
 
-## Building and Running the server
+## Building
+### Dependencies
+This progam uses [gorilla/mux](https://github.com/gorilla/mux).
+
+### Build and run
 Build and run the server:
 ```
 go build && ./jalpha
