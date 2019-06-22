@@ -50,4 +50,4 @@ ji: ジ or ヂ
 
 ## Future Additions
 * Expand alphabet to include Digraphs (e.g. kya: きゃ)
-* Extend search feature to chars in arbitrary string to japanese alphabet (e.g. shumon -> シュモン)
+* Extend search feature to replace chars in an arbitrary string to japanese alphabet (e.g. shumon -> シュモン)
