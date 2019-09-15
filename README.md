@@ -17,7 +17,7 @@ curl szy.wtf:8080/hira/s/zu
 ```
 curl szy.wtf:8080/kata/s/tsu
 ```
-If Japanese characters are not being displayed in your terminal, you may not be using a font that does not support these charcaters.
+If Japanese characters are not being displayed in your terminal, you may be using a font that does not support these charcaters.
 
 ## Usage
 In these examples, it is assumed that the server has been started on localhost on port 8080
