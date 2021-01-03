@@ -2,20 +2,20 @@
 hiragana and katakana tables displayed in your terminal!
 
 ## Try it out!
-Jalpha is currently hosted on ```http://api.szy.wtf```
+Jalpha is currently hosted on ```api.szy.wtf/jalpha```
 
 Try the following commands in your terminal now!
 ```bash
-curl api.szy.wtf/hira
+curl api.szy.wtf/jalpha/hira
 ```
 ```bash
-curl api.szy.wtf/kata
+curl api.szy.wtf/jalpha/kata
 ```
 ```bash
-curl api.szy.wtf/hira/s/zu
+curl api.szy.wtf/jalpha/hira/s/zu
 ```
 ```bash
-curl api.szy.wtf/kata/s/tsu
+curl api.szy.wtf/jalpha/kata/s/tsu
 ```
 If Japanese characters are not being displayed in your terminal, you may be using a font that does not support these charcaters.
 
